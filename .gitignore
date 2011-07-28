@@ -2,3 +2,7 @@
 
 # ignore compiled javascript
 src/*.js
+# and css
+public/css
+.sass-cache
+
