@@ -24,9 +24,12 @@ class GeoGet
       final = nil
       while !final
         res = send_request(url)
-        break unless check_for_ok(res)
-        final = ask(res)
-        url = url_for(ask_for_new_address) unless final
+        if check_for_ok(res)
+          final = ask(res)
+          url = url_for(ask_for_new_address) unless final
+        else
+          url = url_for(ask_for_new_address)
+        end
       end
       final
     end
@@ -65,7 +68,7 @@ class GeoGet
       ll = [l["lat"], l["lng"]].join(",")
       query = "?ll=#{ll}&z=9&q={ll}"
       %x{ open http://maps.google.com/#{query} }
-      puts "Enter N if this is correct, else hit return."
+      puts "Enter N if this is INCORRECT, else hit return."
       if gets =~ /^n/i
         false
       else

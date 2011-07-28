@@ -31,8 +31,8 @@ def denormalize(o)
   new["denorm"]["school"] = school
   geom = GeoGet.geometry_for(address, label)
   new["denorm"]["geometry"] = {
-    "lat" => geom["location"]["lat"],
-    "lng" => geom["location"]["lng"]
+    "lat" => geom["geometry"]["location"]["lat"],
+    "lng" => geom["geometry"]["location"]["lng"]
   }
   new
 end
