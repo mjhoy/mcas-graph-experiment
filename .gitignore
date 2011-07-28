@@ -1,1 +1,4 @@
 .rvmrc
+
+# ignore compiled javascript
+src/*.js
