@@ -10,6 +10,10 @@ body {
 
 article {
   @include container;
+  header#main-head {
+    @include prepend(8);
+    @include column(15, true);
+  }
 }
 
 line.key {
@@ -19,10 +23,14 @@ line.key {
 
 #chart-1 {
   path.state {
-    fill: transparent;
+    fill: #f9f9f9;
     stroke: #ccc;
     stroke-width: 1px;
   }
+}
+circle.point { fill: #000; }
+circle.key {
+  fill: #000;
 }
 h1, h2 {
   font-size: 14px;
@@ -30,21 +38,26 @@ h1, h2 {
 }
 
 nav {
-  @include container;
   section.subject {
-    @include column(6);
+    @include container;
   }
   section.performance {
-    @include column(18, true);
+    @include container;
   }
-  header, ul, h2 {
-    display: inline;
+  section {
+    header { 
+      @include column(8); text-align: right; 
+    }
+    ul { 
+      @include column(16, true); 
+    }
   }
   h2, li {
     padding-right: 5px;
   }
   h2 {
     font-style: italic;
+    margin-top: 0;
   }
   ul {
     list-style-type: none;
