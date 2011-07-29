@@ -12,6 +12,11 @@ article {
   @include container;
 }
 
+line.key {
+  stroke-width: 1px;
+  stroke: #666;
+}
+
 #chart-1 {
   path.state {
     fill: transparent;
