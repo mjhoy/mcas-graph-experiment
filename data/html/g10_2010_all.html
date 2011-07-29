@@ -24,7 +24,7 @@
 
 
 		<!--Start Random Picture-->
-		<a href='http://www.doe.mass.edu/' title='ESE Home'><img src='/images/massdoelogo_r17.jpg' alt='Mass Department of Education' title='Mass Department of Education' class='imgleft' /></a>
+		<a href='http://www.doe.mass.edu/' title='ESE Home'><img src='/images/massdoelogo_r2.jpg' alt='Mass Department of Education' title='Mass Department of Education' class='imgleft' /></a>
 		<!--End Random Picture-->
 
 <!--<a href='http://www.doe.mass.edu/' title='ESE Home'><img src='/images/massdoelogo_r1.jpg' alt='Mass Department of Education' title='Mass Department of Education' class='imgleft' /></a>-->
@@ -227,29 +227,8 @@
 
         <div id="whiteboxRight">
             <!--Start Page Content-->
-            <form name="mcasForm" method="post" action="mcas.aspx?export_json=yes&amp;reportType=SCHOOL&amp;grade=10&amp;apply2006=Y&amp;year=2010&amp;studentGroup=AL%3aAL" id="mcasForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+            <form name="mcasForm" method="post" action="mcas.aspx?reportType=SCHOOL&amp;grade=10&amp;apply2006=Y&amp;year=2010&amp;studentGroup=AL%3aAL" id="mcasForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgzMzQ0ODU3NmQYAgUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFCENvbnRpbnVlBQxtY2FzR3JpZFZpZXcPPCsADAEIAgFkdbRpSnvmNnd81DLDIzwjz1UnYNw1thJUGklo1ilsjCg=" />
-</div>
-
-<script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['mcasForm'];
-if (!theForm) {
-    theForm = document.mcasForm;
-}
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
-
 
                 
                 <span id="SqlLabel"></span>
@@ -358,7 +337,7 @@ function __doPostBack(eventTarget, eventArgument) {
 
 </select></td>
 
-                        <td class='middle'><input type="image" name="Continue" id="Continue" AlternativeText="Continue ->" src="/images/search.gif" style="border-width:0px;" /></td>
+                        <td class='middle'><input type="image" name="Continue" id="Continue" AlternativeText="Continue ->" src="/images/search.gif" border="0" /></td>
                     </tr>
 
                     <tr><td colspan='8' class=''>* Click any column header to sort ascending (first click) or descending (second click). </td></tr>
@@ -369,9 +348,9 @@ function __doPostBack(eventTarget, eventArgument) {
                 <table border="0" width="900" class="nav" >
                 <tr><td colspan="10">
                     <div>
-	<table class="nav center borderall" cellspacing="0" rules="all" border="1" id="mcasGridView" style="border-style:Solid;border-collapse:collapse;">
+	<table class="nav center borderall" cellspacing="0" rules="all" border="1" id="mcasGridView">
 		<tr>
-			<th align="left" scope="col" style="width:300px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ORG_NAME&#39;)">Org Name</a></th><th align="center" scope="col" style="width:75px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ORG_CODE&#39;)">Org Code</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$MSAT_SUBJ_AREA_CODE&#39;)">Subject</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ADVANCED_CNT&#39;)">P+/A #</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ADVANCED_PCT&#39;)">P+/A %</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Proficient_CNT&#39;)">P #</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Proficient_PCT&#39;)">P %</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Needs_CNT&#39;)">NI #</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Needs_PCT&#39;)">NI %</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$WF_CNT&#39;)">W/F #</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$WF_PCT&#39;)">W/F %</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$CPI&#39;)">CPI</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$tot_count&#39;)">Tot #</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$growth_per&#39;)">SGP</a></th><th align="center" scope="col" style="width:40px;"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$inc_growth_per&#39;)">Inc SGP</a></th>
+			<th align="left" scope="col" width="300"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ORG_NAME&#39;)">Org Name</a></th><th align="center" scope="col" width="75"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ORG_CODE&#39;)">Org Code</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$MSAT_SUBJ_AREA_CODE&#39;)">Subject</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ADVANCED_CNT&#39;)">P+/A #</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$ADVANCED_PCT&#39;)">P+/A %</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Proficient_CNT&#39;)">P #</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Proficient_PCT&#39;)">P %</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Needs_CNT&#39;)">NI #</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$Needs_PCT&#39;)">NI %</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$WF_CNT&#39;)">W/F #</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$WF_PCT&#39;)">W/F %</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$CPI&#39;)">CPI</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$tot_count&#39;)">Tot #</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$growth_per&#39;)">SGP</a></th><th align="center" scope="col" width="40"><a href="javascript:__doPostBack(&#39;mcasGridView&#39;,&#39;Sort$inc_growth_per&#39;)">Inc SGP</a></th>
 		</tr><tr>
 			<td align="left"><a href='/mcas/performance_level.aspx?linkid=32&orgtypecode=6&orgcode=04450105&fycode=2010'>Abby Kelley Foster Charter Public (District) - Abby Kelley Foster Charter Public School</a></td><td class="excelText" align="center">04450105</td><td align="center">ELA</td><td align="right">12</td><td align="right">14</td><td align="right">52</td><td align="right">60</td><td align="right">21</td><td align="right">24</td><td align="right">2</td><td align="right">2</td><td align="right">  90.8</td><td align="right">87</td><td align="right">51.0</td><td align="right">86</td>
 		</tr><tr class="eee">

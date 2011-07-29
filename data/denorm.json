@@ -1,0 +1,2810 @@
+{
+  "04450105": {
+    "district": "Abby Kelley Foster Charter Public (District)",
+    "school": "Abby Kelley Foster Charter Public School",
+    "geometry": {
+      "lat": 42.30549999999999,
+      "lng": -71.80100000000002
+    }
+  },
+  "00010505": {
+    "district": "Abington",
+    "school": "Abington High",
+    "geometry": {
+      "lat": 42.11804540000001,
+      "lng": -70.9517218
+    }
+  },
+  "04120530": {
+    "district": "Academy Of the Pacific Rim Charter Public (District)",
+    "school": "Academy Of the Pacific Rim Charter Public Sch",
+    "geometry": {
+      "lat": 42.2434786,
+      "lng": -71.13197269999999
+    }
+  },
+  "06000505": {
+    "district": "Acton-Boxborough",
+    "school": "Acton-Boxborough Reg High",
+    "geometry": {
+      "lat": 42.4783642,
+      "lng": -71.45808219999999
+    }
+  },
+  "06030505": {
+    "district": "Adams-Cheshire",
+    "school": "Hoosac Valley High",
+    "geometry": {
+      "lat": 42.5945277,
+      "lng": -73.115658
+    }
+  },
+  "04300305": {
+    "district": "Advanced Math and Science Academy Charter (District)",
+    "school": "Advanced Math and Science Academy Charter Sch",
+    "geometry": {
+      "lat": 42.3324288,
+      "lng": -71.57725150000002
+    }
+  },
+  "00050505": {
+    "district": "Agawam",
+    "school": "Agawam High",
+    "geometry": {
+      "lat": 42.0722203,
+      "lng": -72.6439652
+    }
+  },
+  "00070505": {
+    "district": "Amesbury",
+    "school": "Amesbury High",
+    "geometry": {
+      "lat": 42.851424,
+      "lng": -70.9434969
+    }
+  },
+  "04150505": {
+    "district": "Amesbury Academy Charter Public School",
+    "school": "Academy of Strategic Learning Charter School",
+    "geometry": {
+      "lat": 42.856749,
+      "lng": -70.928963
+    }
+  },
+  "06050505": {
+    "district": "Amherst-Pelham",
+    "school": "Amherst Regional High",
+    "geometry": {
+      "lat": 42.38342309999999,
+      "lng": -72.51064269999999
+    }
+  },
+  "00090505": {
+    "district": "Andover",
+    "school": "Andover High",
+    "geometry": {
+      "lat": 42.65731419999999,
+      "lng": -71.156446
+    }
+  },
+  "00100505": {
+    "district": "Arlington",
+    "school": "Arlington High",
+    "geometry": {
+      "lat": 42.418108,
+      "lng": -71.162604
+    }
+  },
+  "06100505": {
+    "district": "Ashburnham-Westminster",
+    "school": "Oakmont Regional H S",
+    "geometry": {
+      "lat": 42.60419599999999,
+      "lng": -71.92643799999999
+    }
+  },
+  "00140505": {
+    "district": "Ashland",
+    "school": "Ashland High",
+    "geometry": {
+      "lat": 42.263655,
+      "lng": -71.44465679999999
+    }
+  },
+  "08010605": {
+    "district": "Assabet Valley Regional Vocational Technical",
+    "school": "Assabet Valley Voc HS",
+    "geometry": {
+      "lat": 42.3686037,
+      "lng": -71.56506209999999
+    }
+  },
+  "06150505": {
+    "district": "Athol-Royalston",
+    "school": "Athol High",
+    "geometry": {
+      "lat": 42.5834205,
+      "lng": -72.2070269
+    }
+  },
+  "00160505": {
+    "district": "Attleboro",
+    "school": "Attleboro High",
+    "geometry": {
+      "lat": 41.9405347,
+      "lng": -71.2982246
+    }
+  },
+  "00170505": {
+    "district": "Auburn",
+    "school": "Auburn Senior High",
+    "geometry": {
+      "lat": 42.2084271,
+      "lng": -71.8370161
+    }
+  },
+  "00180510": {
+    "district": "Avon",
+    "school": "Avon Middle High School",
+    "geometry": {
+      "lat": 42.1292665,
+      "lng": -71.04310269999999
+    }
+  },
+  "00190510": {
+    "district": "Ayer",
+    "school": "Ayer High",
+    "geometry": {
+      "lat": 42.5668291,
+      "lng": -71.5753539
+    }
+  },
+  "00200505": {
+    "district": "Barnstable",
+    "school": "Barnstable High",
+    "geometry": {
+      "lat": 41.6562215,
+      "lng": -70.3208557
+    }
+  },
+  "00230505": {
+    "district": "Bedford",
+    "school": "Bedford High",
+    "geometry": {
+      "lat": 42.4912053,
+      "lng": -71.28505779999999
+    }
+  },
+  "00240505": {
+    "district": "Belchertown",
+    "school": "Belchertown High",
+    "geometry": {
+      "lat": 42.265686,
+      "lng": -72.409733
+    }
+  },
+  "00250505": {
+    "district": "Bellingham",
+    "school": "Bellingham High School",
+    "geometry": {
+      "lat": 42.0773854,
+      "lng": -71.4688719
+    }
+  },
+  "00260505": {
+    "district": "Belmont",
+    "school": "Belmont High",
+    "geometry": {
+      "lat": 42.3954144,
+      "lng": -71.1630469
+    }
+  },
+  "04140305": {
+    "district": "Berkshire Arts and Technology Charter Public (District)",
+    "school": "Berkshire Arts and Technology Charter Public",
+    "geometry": {
+      "lat": 42.619568,
+      "lng": -73.121304
+    }
+  },
+  "06180505": {
+    "district": "Berkshire Hills",
+    "school": "Monument Mt Reg High",
+    "geometry": {
+      "lat": 42.2485745,
+      "lng": -73.3316226
+    }
+  },
+  "06200505": {
+    "district": "Berlin-Boylston",
+    "school": "Tahanto Reg High",
+    "geometry": {
+      "lat": 42.370593,
+      "lng": -71.720552
+    }
+  },
+  "00300505": {
+    "district": "Beverly",
+    "school": "Beverly High",
+    "geometry": {
+      "lat": 42.5648354,
+      "lng": -70.8810697
+    }
+  },
+  "00310505": {
+    "district": "Billerica",
+    "school": "Billerica Memorial High School",
+    "geometry": {
+      "lat": 42.559126,
+      "lng": -71.27384169999999
+    }
+  },
+  "08050605": {
+    "district": "Blackstone Valley Regional Vocational Technical",
+    "school": "Blackstone Valley",
+    "geometry": {
+      "lat": 42.1633574,
+      "lng": -71.61475089999999
+    }
+  },
+  "06220505": {
+    "district": "Blackstone-Millville",
+    "school": "Blackstone Millville RHS",
+    "geometry": {
+      "lat": 42.029468,
+      "lng": -71.538248
+    }
+  },
+  "08060605": {
+    "district": "Blue Hills Regional Vocational Technical",
+    "school": "Blue Hills Reg Voc Tech",
+    "geometry": {
+      "lat": 42.18259920000001,
+      "lng": -71.1147726
+    }
+  },
+  "00350541": {
+    "district": "Boston",
+    "school": "Another Course To College",
+    "geometry": {
+      "lat": 42.3522,
+      "lng": -71.1206
+    }
+  },
+  "00350546": {
+    "district": "Boston",
+    "school": "Boston Arts Academy",
+    "geometry": {
+      "lat": 42.3472,
+      "lng": -71.0932
+    }
+  },
+  "00350558": {
+    "district": "Boston",
+    "school": "Boston Community Leadership Academy",
+    "geometry": {
+      "lat": 42.34829999999999,
+      "lng": -71.0688
+    }
+  },
+  "00350507": {
+    "district": "Boston",
+    "school": "Boston International  High School",
+    "geometry": {
+      "lat": 42.281211,
+      "lng": -71.0808629
+    }
+  },
+  "00350560": {
+    "district": "Boston",
+    "school": "Boston Latin",
+    "geometry": {
+      "lat": 42.3392642,
+      "lng": -71.101163
+    }
+  },
+  "00350545": {
+    "district": "Boston",
+    "school": "Boston Latin Academy",
+    "geometry": {
+      "lat": 42.3166928,
+      "lng": -71.0847886
+    }
+  },
+  "00350505": {
+    "district": "Boston",
+    "school": "Brighton High",
+    "geometry": {
+      "lat": 42.3487083,
+      "lng": -71.14533089999999
+    }
+  },
+  "00350576": {
+    "district": "Boston",
+    "school": "Brook Farm Business and Service Career Academ",
+    "geometry": {
+      "lat": 42.2807549,
+      "lng": -71.17099329999999
+    }
+  },
+  "00350515": {
+    "district": "Boston",
+    "school": "Charlestown High",
+    "geometry": {
+      "lat": 42.3804091,
+      "lng": -71.06095719999999
+    }
+  },
+  "00350581": {
+    "district": "Boston",
+    "school": "Community Academy of Science and Health",
+    "geometry": {
+      "lat": 42.30074620000001,
+      "lng": -71.0602638
+    }
+  },
+  "00350651": {
+    "district": "Boston",
+    "school": "Dorchester Academy",
+    "geometry": {
+      "lat": 42.2877754,
+      "lng": -71.0766095
+    }
+  },
+  "00350530": {
+    "district": "Boston",
+    "school": "East Boston High",
+    "geometry": {
+      "lat": 42.3812083,
+      "lng": -71.0350507
+    }
+  },
+  "00350543": {
+    "district": "Boston",
+    "school": "Egleston Comm High School",
+    "geometry": {
+      "lat": 42.3143,
+      "lng": -71.09949999999999
+    }
+  },
+  "00350522": {
+    "district": "Boston",
+    "school": "Excel High School",
+    "geometry": {
+      "lat": 42.33288900000001,
+      "lng": -71.04496499999999
+    }
+  },
+  "00350540": {
+    "district": "Boston",
+    "school": "Fenway High School",
+    "geometry": {
+      "lat": 42.3472,
+      "lng": -71.0932
+    }
+  },
+  "00350525": {
+    "district": "Boston",
+    "school": "Jeremiah E Burke High",
+    "geometry": {
+      "lat": 42.3073203,
+      "lng": -71.08143989999999
+    }
+  },
+  "00350537": {
+    "district": "Boston",
+    "school": "Madison Park High",
+    "geometry": {
+      "lat": 42.3317644,
+      "lng": -71.0897738
+    }
+  },
+  "00350578": {
+    "district": "Boston",
+    "school": "Media Communications Technology High School",
+    "geometry": {
+      "lat": 42.2807549,
+      "lng": -71.17099329999999
+    }
+  },
+  "00350538": {
+    "district": "Boston",
+    "school": "Monument High School",
+    "geometry": {
+      "lat": 42.3328,
+      "lng": -71.0448
+    }
+  },
+  "00350542": {
+    "district": "Boston",
+    "school": "New Mission High School",
+    "geometry": {
+      "lat": 42.3307,
+      "lng": -71.0992
+    }
+  },
+  "00350575": {
+    "district": "Boston",
+    "school": "O'Bryant Sch Math/Science",
+    "geometry": {
+      "lat": 42.331004,
+      "lng": -71.088023
+    }
+  },
+  "00350577": {
+    "district": "Boston",
+    "school": "Odyssey High School",
+    "geometry": {
+      "lat": 42.3329,
+      "lng": -71.044957
+    }
+  },
+  "00350574": {
+    "district": "Boston",
+    "school": "Parkway Academy of Technology and Health",
+    "geometry": {
+      "lat": 42.2807549,
+      "lng": -71.17099329999999
+    }
+  },
+  "00350565": {
+    "district": "Boston",
+    "school": "Quincy Upper School",
+    "geometry": {
+      "lat": 42.3484308,
+      "lng": -71.06894
+    }
+  },
+  "00350690": {
+    "district": "Boston",
+    "school": "Snowden Int'l High",
+    "geometry": {
+      "lat": 42.3512086,
+      "lng": -71.0772736
+    }
+  },
+  "00350583": {
+    "district": "Boston",
+    "school": "Social Justice Academy",
+    "geometry": {
+      "lat": 42.262789,
+      "lng": -71.11792
+    }
+  },
+  "00350654": {
+    "district": "Boston",
+    "school": "TechBoston Upper Academy",
+    "geometry": {
+      "lat": 42.2877754,
+      "lng": -71.0766095
+    }
+  },
+  "00350582": {
+    "district": "Boston",
+    "school": "The Engineering School",
+    "geometry": {
+      "lat": 42.262789,
+      "lng": -71.11792
+    }
+  },
+  "00350535": {
+    "district": "Boston",
+    "school": "The English High",
+    "geometry": {
+      "lat": 42.3063999,
+      "lng": -71.1088
+    }
+  },
+  "00350579": {
+    "district": "Boston",
+    "school": "Urban Science Academy",
+    "geometry": {
+      "lat": 42.2807549,
+      "lng": -71.17099329999999
+    }
+  },
+  "00350363": {
+    "district": "Boston",
+    "school": "William McKinley",
+    "geometry": {
+      "lat": 42.3445456,
+      "lng": -71.0730954
+    }
+  },
+  "04490305": {
+    "district": "Boston Collegiate Charter (District)",
+    "school": "Boston Collegiate Charter School",
+    "geometry": {
+      "lat": 42.3217764,
+      "lng": -71.0605781
+    }
+  },
+  "04240505": {
+    "district": "Boston Day and Evening Academy Charter (District)",
+    "school": "Boston Day and Evening Academy Charter School",
+    "geometry": {
+      "lat": 42.327108,
+      "lng": -71.081679
+    }
+  },
+  "04160305": {
+    "district": "Boston Preparatory Charter Public (District)",
+    "school": "Boston Preparatory Charter Public School",
+    "geometry": {
+      "lat": 42.2547,
+      "lng": -71.1237
+    }
+  },
+  "00360505": {
+    "district": "Bourne",
+    "school": "Bourne High",
+    "geometry": {
+      "lat": 41.737784,
+      "lng": -70.591883
+    }
+  },
+  "00400505": {
+    "district": "Braintree",
+    "school": "Braintree High",
+    "geometry": {
+      "lat": 42.20423479999999,
+      "lng": -71.0198743
+    }
+  },
+  "06250505": {
+    "district": "Bridgewater-Raynham",
+    "school": "Bridgewater-Raynham Reg",
+    "geometry": {
+      "lat": 41.9892676,
+      "lng": -70.9850428
+    }
+  },
+  "09100705": {
+    "district": "Bristol County Agricultural",
+    "school": "Bristol County Agr High",
+    "geometry": {
+      "lat": 41.835657,
+      "lng": -71.1147675
+    }
+  },
+  "08100605": {
+    "district": "Bristol-Plymouth Regional Vocational Technical",
+    "school": "Bristol-Plymouth Voc Tech",
+    "geometry": {
+      "lat": 41.878001,
+      "lng": -71.06205899999999
+    }
+  },
+  "00440515": {
+    "district": "Brockton",
+    "school": "Brockton Champion High School",
+    "geometry": {
+      "lat": 42.0701072,
+      "lng": -71.0399413
+    }
+  },
+  "00440505": {
+    "district": "Brockton",
+    "school": "Brockton High",
+    "geometry": {
+      "lat": 42.0701072,
+      "lng": -71.0399413
+    }
+  },
+  "00460505": {
+    "district": "Brookline",
+    "school": "Brookline High",
+    "geometry": {
+      "lat": 42.3334308,
+      "lng": -71.1300526
+    }
+  },
+  "00480505": {
+    "district": "Burlington",
+    "school": "Burlington High",
+    "geometry": {
+      "lat": 42.5014956,
+      "lng": -71.1949872
+    }
+  },
+  "00490506": {
+    "district": "Cambridge",
+    "school": "Cambridge Rindge and Latin",
+    "geometry": {
+      "lat": 42.3745413,
+      "lng": -71.111997
+    }
+  },
+  "00500505": {
+    "district": "Canton",
+    "school": "Canton High",
+    "geometry": {
+      "lat": 42.1647872,
+      "lng": -71.1470962
+    }
+  },
+  "08150605": {
+    "district": "Cape Cod Regional Vocational Technical",
+    "school": "Cape Cod Region Voc Tech",
+    "geometry": {
+      "lat": 41.7112217,
+      "lng": -70.075851
+    }
+  },
+  "00520405": {
+    "district": "Carver",
+    "school": "Carver Middle/High School",
+    "geometry": {
+      "lat": 41.8936769,
+      "lng": -70.754706
+    }
+  },
+  "06350505": {
+    "district": "Central Berkshire",
+    "school": "Wahconah Regional High",
+    "geometry": {
+      "lat": 42.4723072,
+      "lng": -73.1384355
+    }
+  },
+  "00550505": {
+    "district": "Chatham",
+    "school": "Chatham High",
+    "geometry": {
+      "lat": 41.694556,
+      "lng": -69.970849
+    }
+  },
+  "00560505": {
+    "district": "Chelmsford",
+    "school": "Chelmsford High",
+    "geometry": {
+      "lat": 42.623344,
+      "lng": -71.38003359999999
+    }
+  },
+  "00570505": {
+    "district": "Chelsea",
+    "school": "Chelsea High",
+    "geometry": {
+      "lat": 42.399883,
+      "lng": -71.039722
+    }
+  },
+  "00610510": {
+    "district": "Chicopee",
+    "school": "Chicopee Comprehensive HS",
+    "geometry": {
+      "lat": 42.1769485,
+      "lng": -72.59296599999999
+    }
+  },
+  "00610505": {
+    "district": "Chicopee",
+    "school": "Chicopee High",
+    "geometry": {
+      "lat": 42.14892589999999,
+      "lng": -72.5857556
+    }
+  },
+  "04370505": {
+    "district": "City On A Hill Charter Public (District)",
+    "school": "City On A Hill Charter Public School",
+    "geometry": {
+      "lat": 42.3238811,
+      "lng": -71.08763689999999
+    }
+  },
+  "00640505": {
+    "district": "Clinton",
+    "school": "Clinton Senior High",
+    "geometry": {
+      "lat": 42.4186408,
+      "lng": -71.68632579999999
+    }
+  },
+  "04380505": {
+    "district": "Codman Academy Charter Public (District)",
+    "school": "Codman Academy Charter Public School",
+    "geometry": {
+      "lat": 42.2898,
+      "lng": -71.0709
+    }
+  },
+  "00650505": {
+    "district": "Cohasset",
+    "school": "Cohasset Middle/High School",
+    "geometry": {
+      "lat": 42.2326008,
+      "lng": -70.8092099
+    }
+  },
+  "04360305": {
+    "district": "Community Charter School of Cambridge (District)",
+    "school": "Community Charter School of Cambridge",
+    "geometry": {
+      "lat": 42.3674236,
+      "lng": -71.0845168
+    }
+  },
+  "06400505": {
+    "district": "Concord-Carlisle",
+    "school": "Concord Carlisle High",
+    "geometry": {
+      "lat": 42.4481499,
+      "lng": -71.3472817
+    }
+  },
+  "00710505": {
+    "district": "Danvers",
+    "school": "Danvers High",
+    "geometry": {
+      "lat": 42.5820389,
+      "lng": -70.93143959999999
+    }
+  },
+  "00720505": {
+    "district": "Dartmouth",
+    "school": "Dartmouth High",
+    "geometry": {
+      "lat": 41.59301749999999,
+      "lng": -70.9803948
+    }
+  },
+  "00730505": {
+    "district": "Dedham",
+    "school": "Dedham High",
+    "geometry": {
+      "lat": 42.2459319,
+      "lng": -71.1619973
+    }
+  },
+  "06450505": {
+    "district": "Dennis-Yarmouth",
+    "school": "Dennis-Yarmouth Reg High",
+    "geometry": {
+      "lat": 41.677975,
+      "lng": -70.193636
+    }
+  },
+  "06500505": {
+    "district": "Dighton-Rehoboth",
+    "school": "Dighton-Rehoboth Rhs",
+    "geometry": {
+      "lat": 41.8526009,
+      "lng": -71.1961591
+    }
+  },
+  "00770505": {
+    "district": "Douglas",
+    "school": "Douglas High School",
+    "geometry": {
+      "lat": 42.07064,
+      "lng": -71.701884
+    }
+  },
+  "06550505": {
+    "district": "Dover-Sherborn",
+    "school": "Dover-Sherborn Reg High",
+    "geometry": {
+      "lat": 42.2170577,
+      "lng": -71.3225659
+    }
+  },
+  "00790505": {
+    "district": "Dracut",
+    "school": "Dracut Senior High",
+    "geometry": {
+      "lat": 42.6750906,
+      "lng": -71.3367284
+    }
+  },
+  "06580505": {
+    "district": "Dudley-Charlton Reg",
+    "school": "Shepherd Hill Reg High",
+    "geometry": {
+      "lat": 42.0537074,
+      "lng": -71.9184061
+    }
+  },
+  "00820505": {
+    "district": "Duxbury",
+    "school": "Duxbury High",
+    "geometry": {
+      "lat": 42.0489317,
+      "lng": -70.6795966
+    }
+  },
+  "00830505": {
+    "district": "East Bridgewater",
+    "school": "East Bridgewater High",
+    "geometry": {
+      "lat": 42.0281565,
+      "lng": -70.9555984
+    }
+  },
+  "00870505": {
+    "district": "East Longmeadow",
+    "school": "East Longmeadow High",
+    "geometry": {
+      "lat": 42.0587064,
+      "lng": -72.5250867
+    }
+  },
+  "00860505": {
+    "district": "Easthampton",
+    "school": "Easthampton High",
+    "geometry": {
+      "lat": 42.2598125,
+      "lng": -72.6717579
+    }
+  },
+  "00880505": {
+    "district": "Easton",
+    "school": "Oliver Ames High",
+    "geometry": {
+      "lat": 42.0559331,
+      "lng": -71.1111593
+    }
+  },
+  "04520505": {
+    "district": "Edward M. Kennedy Academy for Health Careers (Horace Mann Charter School)",
+    "school": "Health Careers Academy Charter School",
+    "geometry": {
+      "lat": 42.3403127,
+      "lng": -71.08853959999999
+    }
+  },
+  "09130705": {
+    "district": "Essex Agricultural Technical",
+    "school": "Essex Agr and Tech Inst",
+    "geometry": {
+      "lat": 42.589444,
+      "lng": -70.977328
+    }
+  },
+  "00930505": {
+    "district": "Everett",
+    "school": "Everett High",
+    "geometry": {
+      "lat": 42.41431679999999,
+      "lng": -71.0437077
+    }
+  },
+  "00940505": {
+    "district": "Fairhaven",
+    "school": "Fairhaven High",
+    "geometry": {
+      "lat": 41.6431598,
+      "lng": -70.90531539999999
+    }
+  },
+  "00950505": {
+    "district": "Fall River",
+    "school": "B M C Durfee High",
+    "geometry": {
+      "lat": 41.715696,
+      "lng": -71.131804
+    }
+  },
+  "00950325": {
+    "district": "Fall River",
+    "school": "Resiliency Preparatory School",
+    "geometry": {
+      "lat": 41.7087133,
+      "lng": -71.1533783
+    }
+  },
+  "00960505": {
+    "district": "Falmouth",
+    "school": "Falmouth High",
+    "geometry": {
+      "lat": 41.5927725,
+      "lng": -70.6052827
+    }
+  },
+  "00970505": {
+    "district": "Fitchburg",
+    "school": "Fitchburg High",
+    "geometry": {
+      "lat": 42.5862004,
+      "lng": -71.8014622
+    }
+  },
+  "04130505": {
+    "district": "Four Rivers Charter Public (District)",
+    "school": "Four Rivers Charter Public School",
+    "geometry": {
+      "lat": 42.596248,
+      "lng": -72.62071499999999
+    }
+  },
+  "00990505": {
+    "district": "Foxborough",
+    "school": "Foxborough High",
+    "geometry": {
+      "lat": 42.0545821,
+      "lng": -71.250376
+    }
+  },
+  "04460550": {
+    "district": "Foxborough Regional Charter (District)",
+    "school": "Foxborough Regional Charter School",
+    "geometry": {
+      "lat": 42.0573,
+      "lng": -71.2450999
+    }
+  },
+  "01000515": {
+    "district": "Framingham",
+    "school": "Framingham H S",
+    "geometry": {
+      "lat": 42.3185716,
+      "lng": -71.4036611
+    }
+  },
+  "04780505": {
+    "district": "Francis W. Parker Charter Essential (District)",
+    "school": "Francis W. Parker Charter Essential School",
+    "geometry": {
+      "lat": 42.5489,
+      "lng": -71.60629999999999
+    }
+  },
+  "01010505": {
+    "district": "Franklin",
+    "school": "Franklin High",
+    "geometry": {
+      "lat": 42.098059,
+      "lng": -71.416431
+    }
+  },
+  "08180605": {
+    "district": "Franklin County Regional Vocational Technical",
+    "school": "Franklin County Tech",
+    "geometry": {
+      "lat": 42.5950414,
+      "lng": -72.52915279999999
+    }
+  },
+  "06650505": {
+    "district": "Freetown-Lakeville",
+    "school": "Apponequet Regional High",
+    "geometry": {
+      "lat": 41.7923244,
+      "lng": -70.9830968
+    }
+  },
+  "06700505": {
+    "district": "Frontier",
+    "school": "Frontier Reg",
+    "geometry": {
+      "lat": 42.483522,
+      "lng": -72.607047
+    }
+  },
+  "01030505": {
+    "district": "Gardner",
+    "school": "Gardner High",
+    "geometry": {
+      "lat": 42.5834151,
+      "lng": -71.9782053
+    }
+  },
+  "06720505": {
+    "district": "Gateway",
+    "school": "Gateway Reg High",
+    "geometry": {
+      "lat": 42.2514782,
+      "lng": -72.8703752
+    }
+  },
+  "01050505": {
+    "district": "Georgetown",
+    "school": "Georgetown Middle/High",
+    "geometry": {
+      "lat": 42.7233771,
+      "lng": -70.9882963
+    }
+  },
+  "06740505": {
+    "district": "Gill-Montague",
+    "school": "Turners Fall High",
+    "geometry": {
+      "lat": 42.5873082,
+      "lng": -72.543144
+    }
+  },
+  "04960305": {
+    "district": "Global Learning Charter Public  (District)",
+    "school": "Global Learning Charter Public School",
+    "geometry": {
+      "lat": 41.6601444,
+      "lng": -70.92962419999999
+    }
+  },
+  "01070505": {
+    "district": "Gloucester",
+    "school": "Gloucester High",
+    "geometry": {
+      "lat": 42.6134286,
+      "lng": -70.6761558
+    }
+  },
+  "01100505": {
+    "district": "Grafton",
+    "school": "Grafton Memorial Senior",
+    "geometry": {
+      "lat": 42.2105442,
+      "lng": -71.6923901
+    }
+  },
+  "01110505": {
+    "district": "Granby",
+    "school": "Granby Jr Sr High Sch",
+    "geometry": {
+      "lat": 42.264814,
+      "lng": -72.49397549999999
+    }
+  },
+  "08210605": {
+    "district": "Greater Fall River Regional Vocational Technical",
+    "school": "Diman Reg Voc Tech High",
+    "geometry": {
+      "lat": 41.698425,
+      "lng": -71.12297199999999
+    }
+  },
+  "08230605": {
+    "district": "Greater Lawrence Regional Vocational Technical",
+    "school": "Gr Lawrence Reg Voc Tech",
+    "geometry": {
+      "lat": 42.69089,
+      "lng": -71.195827
+    }
+  },
+  "08280605": {
+    "district": "Greater Lowell Regional Vocational Technical",
+    "school": "Gr Lowell Reg Voc Tech",
+    "geometry": {
+      "lat": 42.6512177,
+      "lng": -71.38607879999999
+    }
+  },
+  "08250605": {
+    "district": "Greater New Bedford Regional Vocational Technical",
+    "school": "Gr New Bedford Voc Tech",
+    "geometry": {
+      "lat": 41.6904647,
+      "lng": -70.9373403
+    }
+  },
+  "01140505": {
+    "district": "Greenfield",
+    "school": "Greenfield High",
+    "geometry": {
+      "lat": 42.6059186,
+      "lng": -72.5939784
+    }
+  },
+  "06730505": {
+    "district": "Groton-Dunstable",
+    "school": "Groton Dunstable Regional",
+    "geometry": {
+      "lat": 42.6170345,
+      "lng": -71.5795122
+    }
+  },
+  "01170505": {
+    "district": "Hadley",
+    "school": "Hopkins Academy",
+    "geometry": {
+      "lat": 42.3417565,
+      "lng": -72.5912001
+    }
+  },
+  "06750505": {
+    "district": "Hamilton-Wenham",
+    "school": "Hamilton-Wenham Reg High",
+    "geometry": {
+      "lat": 42.6285204,
+      "lng": -70.8502445
+    }
+  },
+  "06800505": {
+    "district": "Hampden-Wilbraham",
+    "school": "Minnechaug Reg High",
+    "geometry": {
+      "lat": 42.11143750000001,
+      "lng": -72.44126349999999
+    }
+  },
+  "06830505": {
+    "district": "Hampshire",
+    "school": "Hampshire Reg High",
+    "geometry": {
+      "lat": 42.3020333,
+      "lng": -72.7717603
+    }
+  },
+  "01220505": {
+    "district": "Hanover",
+    "school": "Hanover High",
+    "geometry": {
+      "lat": 42.1292677,
+      "lng": -70.8703206
+    }
+  },
+  "01250505": {
+    "district": "Harvard",
+    "school": "Bromfield",
+    "geometry": {
+      "lat": 42.497239,
+      "lng": -71.5877469
+    }
+  },
+  "01260505": {
+    "district": "Harwich",
+    "school": "Harwich High",
+    "geometry": {
+      "lat": 41.6906446,
+      "lng": -70.0703152
+    }
+  },
+  "01270505": {
+    "district": "Hatfield",
+    "school": "Smith Academy",
+    "geometry": {
+      "lat": 42.3768,
+      "lng": -72.600503
+    }
+  },
+  "01280505": {
+    "district": "Haverhill",
+    "school": "Haverhill High",
+    "geometry": {
+      "lat": 42.7873122,
+      "lng": -71.1070024
+    }
+  },
+  "01310505": {
+    "district": "Hingham",
+    "school": "Hingham High",
+    "geometry": {
+      "lat": 42.2278782,
+      "lng": -70.8772671
+    }
+  },
+  "01330505": {
+    "district": "Holbrook",
+    "school": "Holbrook Jr Sr High",
+    "geometry": {
+      "lat": 42.14696319999999,
+      "lng": -71.008648
+    }
+  },
+  "01360505": {
+    "district": "Holliston",
+    "school": "Holliston High",
+    "geometry": {
+      "lat": 42.205652,
+      "lng": -71.44478339999999
+    }
+  },
+  "01370505": {
+    "district": "Holyoke",
+    "school": "Holyoke High",
+    "geometry": {
+      "lat": 42.199732,
+      "lng": -72.622135
+    }
+  },
+  "01370605": {
+    "district": "Holyoke",
+    "school": "Wm J Dean Voc Tech High",
+    "geometry": {
+      "lat": 42.177934,
+      "lng": -72.63077
+    }
+  },
+  "01380505": {
+    "district": "Hopedale",
+    "school": "Hopedale Jr Sr High",
+    "geometry": {
+      "lat": 42.1287077,
+      "lng": -71.53728559999999
+    }
+  },
+  "01390505": {
+    "district": "Hopkinton",
+    "school": "Hopkinton High",
+    "geometry": {
+      "lat": 42.2180604,
+      "lng": -71.5169073
+    }
+  },
+  "01410505": {
+    "district": "Hudson",
+    "school": "Hudson High",
+    "geometry": {
+      "lat": 42.379748,
+      "lng": -71.579633
+    }
+  },
+  "01420505": {
+    "district": "Hull",
+    "school": "Hull High",
+    "geometry": {
+      "lat": 42.3042658,
+      "lng": -70.9203246
+    }
+  },
+  "04350305": {
+    "district": "Innovation Academy Charter (District)",
+    "school": "Innovation Academy Charter School",
+    "geometry": {
+      "lat": 42.659373,
+      "lng": -71.40700799999999
+    }
+  },
+  "01440505": {
+    "district": "Ipswich",
+    "school": "Ipswich High",
+    "geometry": {
+      "lat": 42.6881489,
+      "lng": -70.8517171
+    }
+  },
+  "06900505": {
+    "district": "King Philip",
+    "school": "King Philip Reg High",
+    "geometry": {
+      "lat": 42.0723206,
+      "lng": -71.33255609999999
+    }
+  },
+  "01490530": {
+    "district": "Lawrence",
+    "school": "Business Management & Finance High School",
+    "geometry": {
+      "lat": 42.69093549999999,
+      "lng": -71.1449087
+    }
+  },
+  "01490531": {
+    "district": "Lawrence",
+    "school": "Health & Human Services High School",
+    "geometry": {
+      "lat": 42.6910242,
+      "lng": -71.1436459
+    }
+  },
+  "01490536": {
+    "district": "Lawrence",
+    "school": "High School Learning Center",
+    "geometry": {
+      "lat": 42.710219,
+      "lng": -71.16284879999999
+    }
+  },
+  "01490532": {
+    "district": "Lawrence",
+    "school": "Humanities & Leadership Development High Scho",
+    "geometry": {
+      "lat": 42.6910242,
+      "lng": -71.1436459
+    }
+  },
+  "01490534": {
+    "district": "Lawrence",
+    "school": "International High School",
+    "geometry": {
+      "lat": 42.6910242,
+      "lng": -71.1436459
+    }
+  },
+  "01490533": {
+    "district": "Lawrence",
+    "school": "Math Science & Technology High School",
+    "geometry": {
+      "lat": 42.6910242,
+      "lng": -71.1436459
+    }
+  },
+  "01490535": {
+    "district": "Lawrence",
+    "school": "Performing & Fine Arts High School",
+    "geometry": {
+      "lat": 42.6910242,
+      "lng": -71.1436459
+    }
+  },
+  "01490537": {
+    "district": "Lawrence",
+    "school": "School for Exceptional Studies",
+    "geometry": {
+      "lat": 42.71712489999999,
+      "lng": -71.1663145
+    }
+  },
+  "01500505": {
+    "district": "Lee",
+    "school": "Lee Middle/High School",
+    "geometry": {
+      "lat": 42.30652569999999,
+      "lng": -73.2391822
+    }
+  },
+  "01510505": {
+    "district": "Leicester",
+    "school": "Leicester High",
+    "geometry": {
+      "lat": 42.2527865,
+      "lng": -71.9087048
+    }
+  },
+  "01520505": {
+    "district": "Lenox",
+    "school": "Lenox Memorial High",
+    "geometry": {
+      "lat": 42.3520306,
+      "lng": -73.2589948
+    }
+  },
+  "01530605": {
+    "district": "Leominster",
+    "school": "Leominster Ctr Tech Educ",
+    "geometry": {
+      "lat": 42.5326,
+      "lng": -71.7786
+    }
+  },
+  "01530505": {
+    "district": "Leominster",
+    "school": "Leominster Senior High",
+    "geometry": {
+      "lat": 42.5328682,
+      "lng": -71.77868339999999
+    }
+  },
+  "01550505": {
+    "district": "Lexington",
+    "school": "Lexington High",
+    "geometry": {
+      "lat": 42.4437064,
+      "lng": -71.2331116
+    }
+  },
+  "06950505": {
+    "district": "Lincoln-Sudbury",
+    "school": "Lincoln-Sudbury Reg High",
+    "geometry": {
+      "lat": 42.3976218,
+      "lng": -71.4003221
+    }
+  },
+  "01580505": {
+    "district": "Littleton",
+    "school": "Littleton High School",
+    "geometry": {
+      "lat": 42.5431473,
+      "lng": -71.49145340000001
+    }
+  },
+  "01590505": {
+    "district": "Longmeadow",
+    "school": "Longmeadow High",
+    "geometry": {
+      "lat": 42.0556508,
+      "lng": -72.56036550000002
+    }
+  },
+  "01600505": {
+    "district": "Lowell",
+    "school": "Lowell High",
+    "geometry": {
+      "lat": 42.6480434,
+      "lng": -71.311883
+    }
+  },
+  "04580505": {
+    "district": "Lowell Middlesex Academy Charter (District)",
+    "school": "Lowell Middlesex Academy Charter School",
+    "geometry": {
+      "lat": 42.6451132,
+      "lng": -71.31008369999999
+    }
+  },
+  "01610505": {
+    "district": "Ludlow",
+    "school": "Ludlow Senior High",
+    "geometry": {
+      "lat": 42.171526,
+      "lng": -72.466376
+    }
+  },
+  "01620505": {
+    "district": "Lunenburg",
+    "school": "Lunenburg High",
+    "geometry": {
+      "lat": 42.5978676,
+      "lng": -71.7200716
+    }
+  },
+  "01630505": {
+    "district": "Lynn",
+    "school": "Classical High",
+    "geometry": {
+      "lat": 42.46557869999999,
+      "lng": -70.9847079
+    }
+  },
+  "01630525": {
+    "district": "Lynn",
+    "school": "Fecteau-Leary Junior/Senior High School",
+    "geometry": {
+      "lat": 42.46475,
+      "lng": -70.954978
+    }
+  },
+  "01630510": {
+    "district": "Lynn",
+    "school": "Lynn English High",
+    "geometry": {
+      "lat": 42.4773183,
+      "lng": -70.9453272
+    }
+  },
+  "01630605": {
+    "district": "Lynn",
+    "school": "Lynn Voc Tech Institute",
+    "geometry": {
+      "lat": 42.4596923,
+      "lng": -70.95455729999999
+    }
+  },
+  "01640505": {
+    "district": "Lynnfield",
+    "school": "Lynnfield High",
+    "geometry": {
+      "lat": 42.53898359999999,
+      "lng": -71.0328303
+    }
+  },
+  "04690505": {
+    "district": "MATCH Charter Public School (District)",
+    "school": "MATCH Charter Public High School",
+    "geometry": {
+      "lat": 42.352241,
+      "lng": -71.120947
+    }
+  },
+  "01650505": {
+    "district": "Malden",
+    "school": "Malden High",
+    "geometry": {
+      "lat": 42.4267631,
+      "lng": -71.06560739999999
+    }
+  },
+  "06980510": {
+    "district": "Manchester Essex Regional",
+    "school": "Manchester Essex Regional High School",
+    "geometry": {
+      "lat": 42.58203959999999,
+      "lng": -70.7658799
+    }
+  },
+  "01670505": {
+    "district": "Mansfield",
+    "school": "Mansfield High",
+    "geometry": {
+      "lat": 42.0295438,
+      "lng": -71.20727339999999
+    }
+  },
+  "01680505": {
+    "district": "Marblehead",
+    "school": "Marblehead High",
+    "geometry": {
+      "lat": 42.4925,
+      "lng": -70.8691
+    }
+  },
+  "01700505": {
+    "district": "Marlborough",
+    "school": "Marlborough High",
+    "geometry": {
+      "lat": 42.3623967,
+      "lng": -71.5530261
+    }
+  },
+  "01710505": {
+    "district": "Marshfield",
+    "school": "Marshfield High",
+    "geometry": {
+      "lat": 42.1084354,
+      "lng": -70.73781749999999
+    }
+  },
+  "04660550": {
+    "district": "Martha's Vineyard Charter (District)",
+    "school": "Martha's Vineyard Charter School",
+    "geometry": {
+      "lat": 41.3819156,
+      "lng": -70.6745045
+    }
+  },
+  "07000505": {
+    "district": "Marthas Vineyard",
+    "school": "Marthas Vineyard Reg High",
+    "geometry": {
+      "lat": 41.4195579,
+      "lng": -70.5953055
+    }
+  },
+  "07050505": {
+    "district": "Masconomet",
+    "school": "Masconomet Regional HS",
+    "geometry": {
+      "lat": 42.627786,
+      "lng": -70.9765077
+    }
+  },
+  "01720505": {
+    "district": "Mashpee",
+    "school": "Mashpee High",
+    "geometry": {
+      "lat": 41.613162,
+      "lng": -70.5051919
+    }
+  },
+  "01740505": {
+    "district": "Maynard",
+    "school": "Maynard High",
+    "geometry": {
+      "lat": 42.4221951,
+      "lng": -71.4527461
+    }
+  },
+  "01750505": {
+    "district": "Medfield",
+    "school": "Medfield Senior High",
+    "geometry": {
+      "lat": 42.185098,
+      "lng": -71.2967228
+    }
+  },
+  "01760505": {
+    "district": "Medford",
+    "school": "Medford High",
+    "geometry": {
+      "lat": 42.4304809,
+      "lng": -71.1259108
+    }
+  },
+  "01760605": {
+    "district": "Medford",
+    "school": "Medford Voc Tech High",
+    "geometry": {
+      "lat": 42.4304809,
+      "lng": -71.1259108
+    }
+  },
+  "01770505": {
+    "district": "Medway",
+    "school": "Medway High",
+    "geometry": {
+      "lat": 42.1552549,
+      "lng": -71.441222
+    }
+  },
+  "01780505": {
+    "district": "Melrose",
+    "school": "Melrose High",
+    "geometry": {
+      "lat": 42.46454019999999,
+      "lng": -71.0658856
+    }
+  },
+  "07100510": {
+    "district": "Mendon-Upton",
+    "school": "Nipmuc Regional High",
+    "geometry": {
+      "lat": 42.16052450000001,
+      "lng": -71.61672949999999
+    }
+  },
+  "01810505": {
+    "district": "Methuen",
+    "school": "Methuen High",
+    "geometry": {
+      "lat": 42.729314,
+      "lng": -71.172266
+    }
+  },
+  "01820505": {
+    "district": "Middleborough",
+    "school": "Middleborough High",
+    "geometry": {
+      "lat": 41.8806577,
+      "lng": -70.90448479999999
+    }
+  },
+  "01850505": {
+    "district": "Milford",
+    "school": "Milford High",
+    "geometry": {
+      "lat": 42.150423,
+      "lng": -71.53412800000001
+    }
+  },
+  "01860505": {
+    "district": "Millbury",
+    "school": "Millbury Jr/Sr High",
+    "geometry": {
+      "lat": 42.2009277,
+      "lng": -71.7678481
+    }
+  },
+  "01870505": {
+    "district": "Millis",
+    "school": "Millis High School",
+    "geometry": {
+      "lat": 42.1625214,
+      "lng": -71.35450639999999
+    }
+  },
+  "01890505": {
+    "district": "Milton",
+    "school": "Milton High",
+    "geometry": {
+      "lat": 42.251295,
+      "lng": -71.087221
+    }
+  },
+  "08300605": {
+    "district": "Minuteman Regional Vocational Technical",
+    "school": "Minuteman Regional High",
+    "geometry": {
+      "lat": 42.445691,
+      "lng": -71.268911
+    }
+  },
+  "07170505": {
+    "district": "Mohawk Trail",
+    "school": "Mohawk Trail Reg High",
+    "geometry": {
+      "lat": 42.6151264,
+      "lng": -72.75431669999999
+    }
+  },
+  "01910505": {
+    "district": "Monson",
+    "school": "Monson High School",
+    "geometry": {
+      "lat": 42.112573,
+      "lng": -72.31721300000001
+    }
+  },
+  "08320605": {
+    "district": "Montachusett Regional Vocational Technical",
+    "school": "Montachusett Reg Voc Tech",
+    "geometry": {
+      "lat": 42.56064500000001,
+      "lng": -71.86062989999999
+    }
+  },
+  "07150505": {
+    "district": "Mount Greylock",
+    "school": "Mt Greylock Reg High",
+    "geometry": {
+      "lat": 42.6709141,
+      "lng": -73.2412181
+    }
+  },
+  "04700105": {
+    "district": "Mystic Valley Regional Charter (District)",
+    "school": "Mystic Valley Regional Charter School",
+    "geometry": {
+      "lat": 42.4345,
+      "lng": -71.0442
+    }
+  },
+  "01970505": {
+    "district": "Nantucket",
+    "school": "Nantucket High",
+    "geometry": {
+      "lat": 41.2726233,
+      "lng": -70.09946049999999
+    }
+  },
+  "07200505": {
+    "district": "Narragansett",
+    "school": "Narragansett Reg High",
+    "geometry": {
+      "lat": 42.5889767,
+      "lng": -72.0731349
+    }
+  },
+  "07250505": {
+    "district": "Nashoba",
+    "school": "Nashoba Regional",
+    "geometry": {
+      "lat": 42.4491678,
+      "lng": -71.6280194
+    }
+  },
+  "08520605": {
+    "district": "Nashoba Valley Regional Vocational Technical",
+    "school": "Nashoba Valley Tech H S",
+    "geometry": {
+      "lat": 42.5708367,
+      "lng": -71.4095342
+    }
+  },
+  "01980505": {
+    "district": "Natick",
+    "school": "Natick High",
+    "geometry": {
+      "lat": 42.27476799999999,
+      "lng": -71.362038
+    }
+  },
+  "06600505": {
+    "district": "Nauset",
+    "school": "Nauset Regional High",
+    "geometry": {
+      "lat": 41.8603852,
+      "lng": -69.9702966
+    }
+  },
+  "01990505": {
+    "district": "Needham",
+    "school": "Needham High",
+    "geometry": {
+      "lat": 42.2873199,
+      "lng": -71.2303328
+    }
+  },
+  "02010505": {
+    "district": "New Bedford",
+    "school": "New Bedford High",
+    "geometry": {
+      "lat": 41.6445482,
+      "lng": -70.94642759999999
+    }
+  },
+  "04710405": {
+    "district": "New Leadership Charter (District)",
+    "school": "New Leadership Charter School",
+    "geometry": {
+      "lat": 42.1127778,
+      "lng": -72.5102778
+    }
+  },
+  "02040505": {
+    "district": "Newburyport",
+    "school": "Newburyport High",
+    "geometry": {
+      "lat": 42.8125913,
+      "lng": -70.886442
+    }
+  },
+  "02070505": {
+    "district": "Newton",
+    "school": "Newton North High",
+    "geometry": {
+      "lat": 42.3453747,
+      "lng": -71.2103326
+    }
+  },
+  "02070510": {
+    "district": "Newton",
+    "school": "Newton South High",
+    "geometry": {
+      "lat": 42.3145958,
+      "lng": -71.1876879
+    }
+  },
+  "09150705": {
+    "district": "Norfolk County Agricultural",
+    "school": "Norfolk County Agr",
+    "geometry": {
+      "lat": 42.1625923,
+      "lng": -71.23865599999999
+    }
+  },
+  "02090505": {
+    "district": "North Adams",
+    "school": "Drury High",
+    "geometry": {
+      "lat": 42.6700823,
+      "lng": -73.0953806
+    }
+  },
+  "02110505": {
+    "district": "North Andover",
+    "school": "North Andover High",
+    "geometry": {
+      "lat": 42.6999184,
+      "lng": -71.1163795
+    }
+  },
+  "02120505": {
+    "district": "North Attleborough",
+    "school": "North Attleboro High",
+    "geometry": {
+      "lat": 41.981532,
+      "lng": -71.311894
+    }
+  },
+  "02150505": {
+    "district": "North Brookfield",
+    "school": "North Brookfield High",
+    "geometry": {
+      "lat": 42.2770363,
+      "lng": -72.0795212
+    }
+  },
+  "04740505": {
+    "district": "North Central Charter Essential (District)",
+    "school": "North Central Charter Essential School",
+    "geometry": {
+      "lat": 42.580388,
+      "lng": -71.821242
+    }
+  },
+  "07350505": {
+    "district": "North Middlesex",
+    "school": "North Middlesex Reg",
+    "geometry": {
+      "lat": 42.65223,
+      "lng": -71.66179
+    }
+  },
+  "02170505": {
+    "district": "North Reading",
+    "school": "North Reading High",
+    "geometry": {
+      "lat": 42.574258,
+      "lng": -71.08356
+    }
+  },
+  "08540605": {
+    "district": "North Shore Regional Vocational Technical",
+    "school": "North Shore Reg Voc",
+    "geometry": {
+      "lat": 42.5775999,
+      "lng": -70.9957
+    }
+  },
+  "02100505": {
+    "district": "Northampton",
+    "school": "Northampton High",
+    "geometry": {
+      "lat": 42.3250895,
+      "lng": -72.65092369999999
+    }
+  },
+  "04060705": {
+    "district": "Northampton-Smith Vocational Agricultural",
+    "school": "Smith Voc and Agr High",
+    "geometry": {
+      "lat": 42.331199,
+      "lng": -72.65923099999999
+    }
+  },
+  "07300505": {
+    "district": "Northboro-Southboro",
+    "school": "Algonquin Reg High",
+    "geometry": {
+      "lat": 42.3264826,
+      "lng": -71.6125668
+    }
+  },
+  "02140505": {
+    "district": "Northbridge",
+    "school": "Northbridge High",
+    "geometry": {
+      "lat": 42.101034,
+      "lng": -71.6493646
+    }
+  },
+  "08530605": {
+    "district": "Northeast Metropolitan Regional Vocational Technical",
+    "school": "Northeast Metro Reg Voc",
+    "geometry": {
+      "lat": 42.4944855,
+      "lng": -71.04685049999999
+    }
+  },
+  "08510605": {
+    "district": "Northern Berkshire Regional Vocational Technical",
+    "school": "Charles McCann Voc Tech",
+    "geometry": {
+      "lat": 42.6639713,
+      "lng": -73.1009363
+    }
+  },
+  "02180505": {
+    "district": "Norton",
+    "school": "Norton High",
+    "geometry": {
+      "lat": 41.9606483,
+      "lng": -71.19685199999999
+    }
+  },
+  "02190505": {
+    "district": "Norwell",
+    "school": "Norwell High",
+    "geometry": {
+      "lat": 42.1562122,
+      "lng": -70.8375428
+    }
+  },
+  "02200505": {
+    "district": "Norwood",
+    "school": "Norwood High",
+    "geometry": {
+      "lat": 42.1906542,
+      "lng": -71.2144981
+    }
+  },
+  "08550605": {
+    "district": "Old Colony Regional Vocational Technical",
+    "school": "Old Colony Reg Voc Tech",
+    "geometry": {
+      "lat": 41.7859361,
+      "lng": -70.87170549999999
+    }
+  },
+  "07400505": {
+    "district": "Old Rochester",
+    "school": "Old Rochester Reg High",
+    "geometry": {
+      "lat": 41.6728825,
+      "lng": -70.7786461
+    }
+  },
+  "02260505": {
+    "district": "Oxford",
+    "school": "Oxford High",
+    "geometry": {
+      "lat": 42.1375949,
+      "lng": -71.86784980000002
+    }
+  },
+  "02270505": {
+    "district": "Palmer",
+    "school": "Palmer High",
+    "geometry": {
+      "lat": 42.186635,
+      "lng": -72.338708
+    }
+  },
+  "08600605": {
+    "district": "Pathfinder Regional Vocational Technical",
+    "school": "Pathfinder Voc Tech",
+    "geometry": {
+      "lat": 42.1864822,
+      "lng": -72.35230469999999
+    }
+  },
+  "02290510": {
+    "district": "Peabody",
+    "school": "Peabody Veterans Memorial High",
+    "geometry": {
+      "lat": 42.5446,
+      "lng": -70.9743
+    }
+  },
+  "02310505": {
+    "district": "Pembroke",
+    "school": "Pembroke High School",
+    "geometry": {
+      "lat": 42.0536,
+      "lng": -70.798
+    }
+  },
+  "07450505": {
+    "district": "Pentucket",
+    "school": "Pentucket Reg Sr High",
+    "geometry": {
+      "lat": 42.7817332,
+      "lng": -71.01337509999999
+    }
+  },
+  "04930505": {
+    "district": "Phoenix Charter Academy (District)",
+    "school": "Phoenix Charter Academy",
+    "geometry": {
+      "lat": 42.4062962,
+      "lng": -71.0375439
+    }
+  },
+  "04940205": {
+    "district": "Pioneer Charter School of Science (District)",
+    "school": "Pioneer Charter School of Science",
+    "geometry": {
+      "lat": 42.4080749,
+      "lng": -71.051247
+    }
+  },
+  "07500505": {
+    "district": "Pioneer Valley",
+    "school": "Pioneer Valley Reg",
+    "geometry": {
+      "lat": 42.68318499999999,
+      "lng": -72.485079
+    }
+  },
+  "04790505": {
+    "district": "Pioneer Valley Performing Arts Charter Public (District)",
+    "school": "Pioneer Valley Performing Arts Charter Public",
+    "geometry": {
+      "lat": 42.243332,
+      "lng": -72.59831199999999
+    }
+  },
+  "02360505": {
+    "district": "Pittsfield",
+    "school": "Pittsfield High",
+    "geometry": {
+      "lat": 42.4464619,
+      "lng": -73.248282
+    }
+  },
+  "02360510": {
+    "district": "Pittsfield",
+    "school": "Taconic High",
+    "geometry": {
+      "lat": 42.4595287,
+      "lng": -73.27316080000001
+    }
+  },
+  "02390505": {
+    "district": "Plymouth",
+    "school": "Plymouth North High",
+    "geometry": {
+      "lat": 41.9422635,
+      "lng": -70.65056129999999
+    }
+  },
+  "02390515": {
+    "district": "Plymouth",
+    "school": "Plymouth South High",
+    "geometry": {
+      "lat": 41.8814931,
+      "lng": -70.6166996
+    }
+  },
+  "04870550": {
+    "district": "Prospect Hill Academy Charter (District)",
+    "school": "Prospect Hill Academy Charter School",
+    "geometry": {
+      "lat": 42.3788,
+      "lng": -71.09649999999999
+    }
+  },
+  "07530505": {
+    "district": "Quabbin",
+    "school": "Quabbin Regional High School",
+    "geometry": {
+      "lat": 42.4009726,
+      "lng": -72.11287519999999
+    }
+  },
+  "07780505": {
+    "district": "Quaboag Regional",
+    "school": "Quaboag Regional High",
+    "geometry": {
+      "lat": 42.2202864,
+      "lng": -72.1886837
+    }
+  },
+  "02430510": {
+    "district": "Quincy",
+    "school": "North Quincy High",
+    "geometry": {
+      "lat": 42.2776,
+      "lng": -71.0288
+    }
+  },
+  "02430505": {
+    "district": "Quincy",
+    "school": "Quincy High",
+    "geometry": {
+      "lat": 42.2529809,
+      "lng": -71.00077519999999
+    }
+  },
+  "07550505": {
+    "district": "Ralph C Mahar",
+    "school": "Ralph C Mahar Reg",
+    "geometry": {
+      "lat": 42.5767538,
+      "lng": -72.3036955
+    }
+  },
+  "02440505": {
+    "district": "Randolph",
+    "school": "Randolph High",
+    "geometry": {
+      "lat": 42.1625996,
+      "lng": -71.0444921
+    }
+  },
+  "02460505": {
+    "district": "Reading",
+    "school": "Reading Memorial High",
+    "geometry": {
+      "lat": 42.536343,
+      "lng": -71.1080679
+    }
+  },
+  "02480505": {
+    "district": "Revere",
+    "school": "Revere High",
+    "geometry": {
+      "lat": 42.412088,
+      "lng": -71.008116
+    }
+  },
+  "02480520": {
+    "district": "Revere",
+    "school": "Seacoast School",
+    "geometry": {
+      "lat": 42.412,
+      "lng": -71.0084
+    }
+  },
+  "02510505": {
+    "district": "Rockland",
+    "school": "Rockland Senior High",
+    "geometry": {
+      "lat": 42.1274282,
+      "lng": -70.9275536
+    }
+  },
+  "02520510": {
+    "district": "Rockport",
+    "school": "Rockport High",
+    "geometry": {
+      "lat": 42.6523632,
+      "lng": -70.610372
+    }
+  },
+  "04410505": {
+    "district": "Sabis International Charter (District)",
+    "school": "Sabis International Charter School",
+    "geometry": {
+      "lat": 42.1241667,
+      "lng": -72.48166669999999
+    }
+  },
+  "02580505": {
+    "district": "Salem",
+    "school": "Salem High",
+    "geometry": {
+      "lat": 42.5064485,
+      "lng": -70.9117114
+    }
+  },
+  "04850485": {
+    "district": "Salem Academy Charter (District)",
+    "school": "Salem Academy Charter School",
+    "geometry": {
+      "lat": 42.5176,
+      "lng": -70.88759999999999
+    }
+  },
+  "02610505": {
+    "district": "Sandwich",
+    "school": "Sandwich High",
+    "geometry": {
+      "lat": 41.7363999,
+      "lng": -70.455608
+    }
+  },
+  "02620505": {
+    "district": "Saugus",
+    "school": "Saugus High",
+    "geometry": {
+      "lat": 42.4637758,
+      "lng": -71.0230766
+    }
+  },
+  "02640505": {
+    "district": "Scituate",
+    "school": "Scituate High School",
+    "geometry": {
+      "lat": 42.2001013,
+      "lng": -70.7694863
+    }
+  },
+  "02650505": {
+    "district": "Seekonk",
+    "school": "Seekonk High",
+    "geometry": {
+      "lat": 41.8356561,
+      "lng": -71.3328308
+    }
+  },
+  "02660505": {
+    "district": "Sharon",
+    "school": "Sharon High",
+    "geometry": {
+      "lat": 42.1145435,
+      "lng": -71.1783847
+    }
+  },
+  "08710605": {
+    "district": "Shawsheen Valley Regional Vocational Technical",
+    "school": "Shawsheen Valley Voc Tech High School",
+    "geometry": {
+      "lat": 42.548354,
+      "lng": -71.220184
+    }
+  },
+  "02710505": {
+    "district": "Shrewsbury",
+    "school": "Shrewsbury Sr High",
+    "geometry": {
+      "lat": 42.3035471,
+      "lng": -71.74444559999999
+    }
+  },
+  "07600505": {
+    "district": "Silver Lake",
+    "school": "Silver Lake Reg High",
+    "geometry": {
+      "lat": 42.015,
+      "lng": -70.78540000000001
+    }
+  },
+  "02730505": {
+    "district": "Somerset",
+    "school": "Somerset High",
+    "geometry": {
+      "lat": 41.7418533,
+      "lng": -71.147447
+    }
+  },
+  "02740505": {
+    "district": "Somerville",
+    "school": "Somerville High",
+    "geometry": {
+      "lat": 42.3870612,
+      "lng": -71.09712
+    }
+  },
+  "02780505": {
+    "district": "South Hadley",
+    "school": "South Hadley High",
+    "geometry": {
+      "lat": 42.2276514,
+      "lng": -72.58751749999999
+    }
+  },
+  "08290605": {
+    "district": "South Middlesex Regional Vocational Technical",
+    "school": "Joseph P Keefe Tech HS",
+    "geometry": {
+      "lat": 42.276406,
+      "lng": -71.4338001
+    }
+  },
+  "04880550": {
+    "district": "South Shore Charter Public (District)",
+    "school": "South Shore Charter Public School",
+    "geometry": {
+      "lat": 42.156762,
+      "lng": -70.88181999999999
+    }
+  },
+  "08730605": {
+    "district": "South Shore Regional Vocational Technical",
+    "school": "So Shore Voc Tech High",
+    "geometry": {
+      "lat": 42.1477,
+      "lng": -70.86319999999999
+    }
+  },
+  "02770505": {
+    "district": "Southbridge",
+    "school": "Southbridge High",
+    "geometry": {
+      "lat": 42.0750954,
+      "lng": -72.04118629999999
+    }
+  },
+  "08720605": {
+    "district": "Southeastern Regional Vocational Technical",
+    "school": "Southeastern Reg Voc Tech",
+    "geometry": {
+      "lat": 42.008165,
+      "lng": -71.082227
+    }
+  },
+  "07650505": {
+    "district": "Southern Berkshire",
+    "school": "Mt Everett Regional",
+    "geometry": {
+      "lat": 42.1070353,
+      "lng": -73.37511549999999
+    }
+  },
+  "08760605": {
+    "district": "Southern Worcester County Regional Vocational Technical",
+    "school": "Bay Path Reg Voc Tech H S",
+    "geometry": {
+      "lat": 42.131585,
+      "lng": -71.958088
+    }
+  },
+  "07660505": {
+    "district": "Southwick-Tolland",
+    "school": "Southwick-Tolland Regional High",
+    "geometry": {
+      "lat": 42.0605568,
+      "lng": -72.7473128
+    }
+  },
+  "07670505": {
+    "district": "Spencer-E Brookfield",
+    "school": "David Prouty High",
+    "geometry": {
+      "lat": 42.2509804,
+      "lng": -71.9779827
+    }
+  },
+  "02810510": {
+    "district": "Springfield",
+    "school": "High School Of Commerce",
+    "geometry": {
+      "lat": 42.1064831,
+      "lng": -72.578144
+    }
+  },
+  "02810530": {
+    "district": "Springfield",
+    "school": "High School/Science-Tech",
+    "geometry": {
+      "lat": 42.118435,
+      "lng": -72.551029
+    }
+  },
+  "02810620": {
+    "district": "Springfield",
+    "school": "Putnam Voc Tech High Sch",
+    "geometry": {
+      "lat": 42.1175941,
+      "lng": -72.5492543
+    }
+  },
+  "02810506": {
+    "district": "Springfield",
+    "school": "Springfield Academy for Excellence",
+    "geometry": {
+      "lat": 42.157473,
+      "lng": -72.506664
+    }
+  },
+  "02810500": {
+    "district": "Springfield",
+    "school": "Springfield Central High",
+    "geometry": {
+      "lat": 42.1312049,
+      "lng": -72.5467542
+    }
+  },
+  "02810205": {
+    "district": "Springfield",
+    "school": "The Springfield Renaissance School",
+    "geometry": {
+      "lat": 42.1322222,
+      "lng": -72.573611
+    }
+  },
+  "02840505": {
+    "district": "Stoneham",
+    "school": "Stoneham High",
+    "geometry": {
+      "lat": 42.4725955,
+      "lng": -71.08894169999999
+    }
+  },
+  "02850505": {
+    "district": "Stoughton",
+    "school": "Stoughton High",
+    "geometry": {
+      "lat": 42.13040549999999,
+      "lng": -71.1086393
+    }
+  },
+  "04890505": {
+    "district": "Sturgis Charter Public (District)",
+    "school": "Sturgis Charter Public School",
+    "geometry": {
+      "lat": 41.651743,
+      "lng": -70.285169
+    }
+  },
+  "02900510": {
+    "district": "Sutton",
+    "school": "Sutton High School",
+    "geometry": {
+      "lat": 42.1437065,
+      "lng": -71.7709035
+    }
+  },
+  "02910505": {
+    "district": "Swampscott",
+    "school": "Swampscott High",
+    "geometry": {
+      "lat": 42.473,
+      "lng": -70.8941
+    }
+  },
+  "02920505": {
+    "district": "Swansea",
+    "school": "Joseph Case High",
+    "geometry": {
+      "lat": 41.7540823,
+      "lng": -71.2010853
+    }
+  },
+  "07700505": {
+    "district": "Tantasqua",
+    "school": "Tantasqua Reg Sr High",
+    "geometry": {
+      "lat": 42.1625937,
+      "lng": -72.131466
+    }
+  },
+  "07700605": {
+    "district": "Tantasqua",
+    "school": "Tantasqua Reg Voc",
+    "geometry": {
+      "lat": 42.162038,
+      "lng": -72.1317438
+    }
+  },
+  "02930505": {
+    "district": "Taunton",
+    "school": "Taunton High",
+    "geometry": {
+      "lat": 41.9013907,
+      "lng": -71.0715652
+    }
+  },
+  "02950505": {
+    "district": "Tewksbury",
+    "school": "Tewksbury Memorial High",
+    "geometry": {
+      "lat": 42.6025925,
+      "lng": -71.24033589999999
+    }
+  },
+  "08780605": {
+    "district": "Tri County Regional Vocational Technical",
+    "school": "Tri County Reg Voc Tech",
+    "geometry": {
+      "lat": 42.094098,
+      "lng": -71.423908
+    }
+  },
+  "07730505": {
+    "district": "Triton",
+    "school": "Triton Regional High School",
+    "geometry": {
+      "lat": 42.7439282,
+      "lng": -70.9160799
+    }
+  },
+  "03010505": {
+    "district": "Tyngsborough",
+    "school": "Tyngsborough High School",
+    "geometry": {
+      "lat": 42.6975,
+      "lng": -71.4081999
+    }
+  },
+  "08790605": {
+    "district": "Upper Cape Cod Regional Vocational Technical",
+    "school": "Upper Cape Cod Voc Tech",
+    "geometry": {
+      "lat": 41.74483499999999,
+      "lng": -70.576413
+    }
+  },
+  "03040505": {
+    "district": "Uxbridge",
+    "school": "Uxbridge High",
+    "geometry": {
+      "lat": 42.0820413,
+      "lng": -71.6272879
+    }
+  },
+  "07750505": {
+    "district": "Wachusett",
+    "school": "Wachusett Regional High",
+    "geometry": {
+      "lat": 42.3537493,
+      "lng": -71.8740633
+    }
+  },
+  "03050505": {
+    "district": "Wakefield",
+    "school": "Wakefield Memorial High",
+    "geometry": {
+      "lat": 42.4914842,
+      "lng": -71.0703304
+    }
+  },
+  "03070505": {
+    "district": "Walpole",
+    "school": "Walpole High",
+    "geometry": {
+      "lat": 42.135801,
+      "lng": -71.247973
+    }
+  },
+  "03080505": {
+    "district": "Waltham",
+    "school": "Waltham Sr High",
+    "geometry": {
+      "lat": 42.396766,
+      "lng": -71.23552
+    }
+  },
+  "03090505": {
+    "district": "Ware",
+    "school": "Ware Junior/Senior High School",
+    "geometry": {
+      "lat": 42.2514814,
+      "lng": -72.2634137
+    }
+  },
+  "03100505": {
+    "district": "Wareham",
+    "school": "Wareham Senior High",
+    "geometry": {
+      "lat": 41.758437,
+      "lng": -70.7217017
+    }
+  },
+  "03140505": {
+    "district": "Watertown",
+    "school": "Watertown High",
+    "geometry": {
+      "lat": 42.3703744,
+      "lng": -71.1786654
+    }
+  },
+  "03150505": {
+    "district": "Wayland",
+    "school": "Wayland High School",
+    "geometry": {
+      "lat": 42.340894,
+      "lng": -71.370943
+    }
+  },
+  "03160505": {
+    "district": "Webster",
+    "school": "Bartlett Jr Sr High Sch",
+    "geometry": {
+      "lat": 42.04211,
+      "lng": -71.869281
+    }
+  },
+  "03170505": {
+    "district": "Wellesley",
+    "school": "Wellesley Sr High",
+    "geometry": {
+      "lat": 42.3028748,
+      "lng": -71.27894549999999
+    }
+  },
+  "03220505": {
+    "district": "West Boylston",
+    "school": "West Boylston Jr-Sr High",
+    "geometry": {
+      "lat": 42.3731476,
+      "lng": -71.7911826
+    }
+  },
+  "03230505": {
+    "district": "West Bridgewater",
+    "school": "West Bridgewater Jr-Sr",
+    "geometry": {
+      "lat": 42.0187116,
+      "lng": -71.01532180000001
+    }
+  },
+  "03320505": {
+    "district": "West Springfield",
+    "school": "West Springfield High",
+    "geometry": {
+      "lat": 42.1209111,
+      "lng": -72.64009039999999
+    }
+  },
+  "03210505": {
+    "district": "Westborough",
+    "school": "Westborough High",
+    "geometry": {
+      "lat": 42.26481649999999,
+      "lng": -71.6184
+    }
+  },
+  "03250505": {
+    "district": "Westfield",
+    "school": "Westfield High",
+    "geometry": {
+      "lat": 42.149,
+      "lng": -72.753072
+    }
+  },
+  "03250605": {
+    "district": "Westfield",
+    "school": "Westfield Voc Tech High",
+    "geometry": {
+      "lat": 42.1245372,
+      "lng": -72.7617607
+    }
+  },
+  "03260505": {
+    "district": "Westford",
+    "school": "Westford Academy",
+    "geometry": {
+      "lat": 42.5781477,
+      "lng": -71.4637722
+    }
+  },
+  "03300505": {
+    "district": "Weston",
+    "school": "Weston High",
+    "geometry": {
+      "lat": 42.339149,
+      "lng": -71.30446100000002
+    }
+  },
+  "03310505": {
+    "district": "Westport",
+    "school": "Westport High",
+    "geometry": {
+      "lat": 41.6214921,
+      "lng": -71.0805981
+    }
+  },
+  "03350505": {
+    "district": "Westwood",
+    "school": "Westwood High",
+    "geometry": {
+      "lat": 42.2170682,
+      "lng": -71.2166517
+    }
+  },
+  "03360505": {
+    "district": "Weymouth",
+    "school": "Weymouth High School",
+    "geometry": {
+      "lat": 42.1822323,
+      "lng": -70.9428406
+    }
+  },
+  "07800505": {
+    "district": "Whitman-Hanson",
+    "school": "Whitman Hanson Regional",
+    "geometry": {
+      "lat": 42.0695454,
+      "lng": -70.90782039999999
+    }
+  },
+  "08850605": {
+    "district": "Whittier Regional Vocational Technical",
+    "school": "Whittier Reg Voc",
+    "geometry": {
+      "lat": 42.815897,
+      "lng": -71.0211906
+    }
+  },
+  "03420505": {
+    "district": "Wilmington",
+    "school": "Wilmington High",
+    "geometry": {
+      "lat": 42.55602,
+      "lng": -71.16595699999999
+    }
+  },
+  "03430505": {
+    "district": "Winchendon",
+    "school": "Murdock Middle/High",
+    "geometry": {
+      "lat": 42.68674290000001,
+      "lng": -72.0537682
+    }
+  },
+  "03440505": {
+    "district": "Winchester",
+    "school": "Winchester High School",
+    "geometry": {
+      "lat": 42.4559289,
+      "lng": -71.1344982
+    }
+  },
+  "03460505": {
+    "district": "Winthrop",
+    "school": "Winthrop Sr High",
+    "geometry": {
+      "lat": 42.3795419,
+      "lng": -70.978938
+    }
+  },
+  "03470505": {
+    "district": "Woburn",
+    "school": "Woburn High",
+    "geometry": {
+      "lat": 42.4825951,
+      "lng": -71.14477649999999
+    }
+  },
+  "03480503": {
+    "district": "Worcester",
+    "school": "Burncoat Senior High",
+    "geometry": {
+      "lat": 42.2993185,
+      "lng": -71.7895157
+    }
+  },
+  "03480350": {
+    "district": "Worcester",
+    "school": "Claremont Academy",
+    "geometry": {
+      "lat": 42.2543496,
+      "lng": -71.81792779999999
+    }
+  },
+  "03480512": {
+    "district": "Worcester",
+    "school": "Doherty Memorial High",
+    "geometry": {
+      "lat": 42.270049,
+      "lng": -71.819904
+    }
+  },
+  "03480515": {
+    "district": "Worcester",
+    "school": "North High",
+    "geometry": {
+      "lat": 42.26244500000001,
+      "lng": -71.768475
+    }
+  },
+  "03480520": {
+    "district": "Worcester",
+    "school": "South High Community",
+    "geometry": {
+      "lat": 42.2446,
+      "lng": -71.8640999
+    }
+  },
+  "03480285": {
+    "district": "Worcester",
+    "school": "University Pk Campus Sch",
+    "geometry": {
+      "lat": 42.247011,
+      "lng": -71.825065
+    }
+  },
+  "03480605": {
+    "district": "Worcester",
+    "school": "Worcester Technical High",
+    "geometry": {
+      "lat": 42.2773089,
+      "lng": -71.7795776
+    }
+  }
+}
