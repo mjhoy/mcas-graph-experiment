@@ -10,14 +10,15 @@ window.y = d3.scale.linear().domain([0, 100]).range [0, h]
 
 subj = "ELA"
 perf = "P+/A %"
+year = "2010"
 
 # Render the graph for `subj` and `perf`.
-render = (subj, perf) ->
+render = (subj, perf, year) ->
   d3.selectAll("circle.point")
     .transition().ease("cubic-in-out")
     .attr('r', (d) ->
-      if d[subj]
-        circle_width(+d[subj][perf])
+      if d[year] and d[year][subj] and d[year][subj][perf]
+        circle_width(+d[year][subj][perf])
       else
         0
     )
@@ -64,7 +65,10 @@ update_info =  ->
   head = $('#info h2')
   body = $('#info .body')
   body.html('')
-  body.text("#{data[subj][perf]}% #{perf_keys[perf]} in #{subj_keys[subj]}")
+  if data[year] and data[year][subj] and data[year][subj][perf]
+    body.text("#{data[year][subj][perf]}% #{perf_keys[perf]} in #{subj_keys[subj]} in #{year}")
+  else
+    body.text("No data for this entry.")
   head.text(data["denorm"]["school"])
 
 setup_handlers = (svg) ->
@@ -83,17 +87,24 @@ jQuery ->
 
   $("li[data-key='#{subj}']").addClass('active')
   $("li[data-key='#{perf}']").addClass('active')
+  $("li[data-key='#{year}']").addClass('active')
   $('nav .subject li').click (e) ->
     if s = $(e.currentTarget).data('key')
       $(e.currentTarget).addClass('active').siblings().removeClass('active')
       subj = s
-      render(subj, perf)
+      render(subj, perf, year)
       update_info()
   $('nav .performance li').click (e) ->
     if s = $(e.currentTarget).data('key')
       $(e.currentTarget).addClass('active').siblings().removeClass('active')
       perf = s
-      render(subj, perf)
+      render(subj, perf, year)
+      update_info()
+  $('nav .year li').click (e) ->
+    if s = $(e.currentTarget).data('key')
+      $(e.currentTarget).addClass('active').siblings().removeClass('active')
+      year = s
+      render(subj, perf, year)
       update_info()
 
   svg = d3.select('#chart-1')
@@ -111,24 +122,30 @@ jQuery ->
       .attr("d", path)
       .attr("class", "state")
 
-    d3.json "../data/mcas_agg.json", (data) ->
+    d3.json "../data/g10_all.json", (data) ->
 
       svg.selectAll("circle.point")
         .data(data)
         .enter().append("svg:circle")
         .attr('class', 'point')
         .attr('cx', (d) ->
-          ll = d["denorm"]["geometry"]
-          projection([ll["lng"], ll["lat"]])[0] # Longitude
+          if d["denorm"] and d["denorm"]["geometry"]
+            ll = d["denorm"]["geometry"]
+            projection([ll["lng"], ll["lat"]])[0] # Longitude
+          else
+            -100
         )
         .attr('cy', (d) ->
-          ll = d["denorm"]["geometry"]
-          projection([ll["lng"], ll["lat"]])[1] # Latitude
+          if d["denorm"] and d["denorm"]["geometry"]
+            ll = d["denorm"]["geometry"]
+            projection([ll["lng"], ll["lat"]])[1] # Longitude
+          else
+            -100
         )
         .attr('fill-opacity', (d) ->
           0.6
         )
-      render(subj, perf)
+      render(subj, perf, year)
 
       setup_handlers()
 
