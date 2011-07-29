@@ -1,0 +1,10 @@
+## A graphing expirment, using MCAS graph data. ##
+
+The raw HTML data from the Mass. Dept of Elementary and Secondary
+Education can be found in data/html. This is parsed and aggregated
+into a JSON file at data/g10_all.json.
+
+To actually use this, you must compile the Coffeescript and
+also SCSS (Sass) files.
+
+See http://mjhoy.name/articles/mcas.
