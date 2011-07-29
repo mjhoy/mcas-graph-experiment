@@ -21,14 +21,24 @@ render = (subj, perf) ->
       projection([ll["lng"], ll["lat"]])[1] # Latitude
     )
     .attr('r', (d) ->
-      if subj is d["Subject"]
-        +d[perf] / 5
+      if d[subj]
+        +d[subj][perf] / 5
       else
         0
     )
     .attr('fill', (d) ->
-      p = d[perf]
-      "hsla(100, 0%, 40%, #{+p/100})"
+      if d[subj]
+        p = d[subj][perf]
+      else
+        p = 0
+      "hsl(100, 0%, 40%)"
+    )
+    .attr('fill-opacity', (d) ->
+      if d[subj]
+        p = d[subj][perf]
+      else
+        p = 0
+      +p/100
     )
 
 # Document ready.
@@ -60,7 +70,7 @@ jQuery ->
       .attr("d", path)
       .attr("class", "state")
 
-  d3.json "../data/mcas_school_grade10_2010_all.json", (data) ->
+  d3.json "../data/mcas_agg.json", (data) ->
     svg.selectAll("circle.point")
       .data(data)
       .enter().append("svg:circle")
