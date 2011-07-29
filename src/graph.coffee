@@ -50,6 +50,34 @@ setup_keys = (svg) ->
     .attr('y', (d) -> y(79))
     .text( (d) -> d[1] )
 
+perf_keys = null
+subj_keys = null
+update_info =  ->
+  unless perf_keys
+    perf_keys = {}
+    subj_keys = {}
+    $('.performance li').each (i, el) ->
+      perf_keys[$(el).data('key')] = $(el).text()
+    $('.subject li').each (i, el) ->
+      subj_keys[ $(el).data('key') ] = $(el).text()
+  data = $('circle.point.active')[0].__data__
+  head = $('#info h2')
+  body = $('#info .body')
+  body.html('')
+  body.text("#{data[subj][perf]}% #{perf_keys[perf]} in #{subj_keys[subj]}")
+  head.text(data["denorm"]["school"])
+
+setup_handlers = (svg) ->
+
+  $('circle.point').click( (e) ->
+    d3.selectAll('circle.point')
+      .classed('active', false)
+    d3.select(e.currentTarget)
+      .classed('active', true)
+    update_info()
+  )
+  
+
 # Document ready.
 jQuery ->
 
@@ -60,11 +88,13 @@ jQuery ->
       $(e.currentTarget).addClass('active').siblings().removeClass('active')
       subj = s
       render(subj, perf)
+      update_info()
   $('nav .performance li').click (e) ->
     if s = $(e.currentTarget).data('key')
       $(e.currentTarget).addClass('active').siblings().removeClass('active')
       perf = s
       render(subj, perf)
+      update_info()
 
   svg = d3.select('#chart-1')
     .append("svg:svg")
@@ -81,22 +111,24 @@ jQuery ->
       .attr("d", path)
       .attr("class", "state")
 
-  d3.json "../data/mcas_agg.json", (data) ->
+    d3.json "../data/mcas_agg.json", (data) ->
 
-    svg.selectAll("circle.point")
-      .data(data)
-      .enter().append("svg:circle")
-      .attr('class', 'point')
-      .attr('cx', (d) ->
-        ll = d["denorm"]["geometry"]
-        projection([ll["lng"], ll["lat"]])[0] # Longitude
-      )
-      .attr('cy', (d) ->
-        ll = d["denorm"]["geometry"]
-        projection([ll["lng"], ll["lat"]])[1] # Latitude
-      )
-      .attr('fill-opacity', (d) ->
-        0.6
-      )
-    render(subj, perf)
+      svg.selectAll("circle.point")
+        .data(data)
+        .enter().append("svg:circle")
+        .attr('class', 'point')
+        .attr('cx', (d) ->
+          ll = d["denorm"]["geometry"]
+          projection([ll["lng"], ll["lat"]])[0] # Longitude
+        )
+        .attr('cy', (d) ->
+          ll = d["denorm"]["geometry"]
+          projection([ll["lng"], ll["lat"]])[1] # Latitude
+        )
+        .attr('fill-opacity', (d) ->
+          0.6
+        )
+      render(subj, perf)
+
+      setup_handlers()
 
