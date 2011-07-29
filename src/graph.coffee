@@ -25,7 +25,7 @@ render = (subj, perf) ->
 circle_width = (d) ->
   (Math.sqrt(d)/Math.PI) * 2
 
-setupKeys = (svg) ->
+setup_keys = (svg) ->
   svg.selectAll("circle.key")
     .data(d3.range(0, 100, 20))
     .enter().append("svg:circle")
@@ -71,7 +71,7 @@ jQuery ->
     .attr("width", w)
     .attr("height", h)
 
-  setupKeys(svg)
+  setup_keys(svg)
 
   # Graph the state.
   d3.json "../data/mass-geo.json", (json) ->
@@ -99,3 +99,4 @@ jQuery ->
         0.6
       )
     render(subj, perf)
+
