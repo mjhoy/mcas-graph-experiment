@@ -12,33 +12,11 @@ perf = "P+/A %"
 render = (subj, perf) ->
   d3.selectAll("circle.point")
     .transition().ease("cubic-in-out")
-    .attr('cx', (d) ->
-      ll = d["denorm"]["geometry"]
-      projection([ll["lng"], ll["lat"]])[0] # Longitude
-    )
-    .attr('cy', (d) ->
-      ll = d["denorm"]["geometry"]
-      projection([ll["lng"], ll["lat"]])[1] # Latitude
-    )
     .attr('r', (d) ->
       if d[subj]
         +d[subj][perf] / 5
       else
         0
-    )
-    .attr('fill', (d) ->
-      if d[subj]
-        p = d[subj][perf]
-      else
-        p = 0
-      "hsl(100, 0%, 40%)"
-    )
-    .attr('fill-opacity', (d) ->
-      if d[subj]
-        p = d[subj][perf]
-      else
-        p = 0
-      +p/100
     )
 
 # Document ready.
@@ -75,4 +53,15 @@ jQuery ->
       .data(data)
       .enter().append("svg:circle")
       .attr('class', 'point')
-      render(subj, perf)
+      .attr('cx', (d) ->
+        ll = d["denorm"]["geometry"]
+        projection([ll["lng"], ll["lat"]])[0] # Longitude
+      )
+      .attr('cy', (d) ->
+        ll = d["denorm"]["geometry"]
+        projection([ll["lng"], ll["lat"]])[1] # Latitude
+      )
+      .attr('fill-opacity', (d) ->
+        0.6
+      )
+    render(subj, perf)
