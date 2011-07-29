@@ -4,6 +4,10 @@
 // Import all the default blueprint modules so that we can access their mixins.
 @import "blueprint/grid";
 
+body {
+  font: 14px/19px Georgia;
+}
+
 article {
   @include container;
 }
@@ -13,7 +17,32 @@ article {
   path.state {
     fill: transparent;
     stroke: #aaa;
-    stroke-width: 2px;
+    stroke-width: 1px;
+  }
+}
+h1, h2 {
+  font-size: 14px;
+}
+
+nav {
+  @include container;
+  section.subject {
+    @include column(6);
+  }
+  section.performance {
+    @include column(18, true);
+  }
+  ul {
+    list-style-type: none;
+    margin: 0; padding: 0;
+    li { 
+      display: inline;
+      cursor: pointer; 
+      padding-right: 5px;
+      &.active {
+        text-decoration: underline;
+      }
+    }
   }
 }
 
