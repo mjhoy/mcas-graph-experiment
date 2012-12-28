@@ -7,4 +7,4 @@ into a JSON file at data/g10_all.json.
 To actually use this, you must compile the Coffeescript and
 also SCSS (Sass) files.
 
-See http://mjhoy.name/articles/mcas.
+See http://mjhoy.com/posts/mcas.html
